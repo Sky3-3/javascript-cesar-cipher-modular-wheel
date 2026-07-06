@@ -51,7 +51,3 @@ El entorno gráfico dibuja de forma asíncrona mediante trigonometría cartesian
 * **Propiedad de Inyectividad (Uno a Uno)**: Demostración visual de que para cada elemento del Dominio le corresponde una imagen única en el Codominio ($x_1 \neq x_2 \implies f(x_1) \neq f(x_2)$), garantizando que las líneas de proyección nunca se crucen y eliminando colisiones de datos.
 * **Biyectividad y Reversibilidad**: Validación estructural que asegura la existencia de una función inversa ($f^{-1}$), permitiendo recuperar el mensaje original sin pérdida de bits ni alteración de la información estructural de la preimagen.
 * **Manejo Sincrónico del DOM**: Uso de escuchas reactivas (`addEventListener`) vinculadas a los eventos de entrada de la interfaz gráfica para recalcular las matrices de píxeles del Canvas de forma instantánea ante cualquier mutación de variables.
-
-
-
-¡Es una joya de proyecto, Cielo! Subilo organizado, sacale la captura de pantalla al Canvas y actualizá tu menú indexador. Con esto demostrás versatilidad total en Python, Tableau, Pascal y ahora JavaScript aplicado a la ciencia. ¡A romperla! 🚀💥🔐🌐
